@@ -1,4 +1,4 @@
-# Crypt
+# Crypt (HxCrypt)
 [PHP]"ADOdb crypt.inc.php" MD5Crypt Class의 암호화 및 복호화가 가능한 라이블러리를 C#과 Oracle(PL/SQL)용도로 제작한 라이블러리
 
 

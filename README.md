@@ -2,7 +2,7 @@
 [PHP]"ADOdb crypt.inc.php" MD5Crypt Class의 암호화 및 복호화가 가능한 라이블러리를 C#과 Oracle(PL/SQL)용도로 제작한 라이블러리
 
 
-- PHP Source : ADOdb crypt.inc.php ( http://adodb.org/ )
+- PHP Source : ADOdb crypt.inc.php ( http://adodb.org/ , https://github.com/ADOdb/ADOdb/blob/master/session/crypt.inc.php)
 - Oracle : 비트연산용 PKG_UTILS( http://overoid.tistory.com/35 ) 참조
 - C# : 최종 버전은 HxCore.HxCrypt( https://github.com/userjhpark/HxCore/blob/master/HxCrypt.cs ) 참고
 

@@ -4,8 +4,7 @@
 
 - PHP Source : ADOdb crypt.inc.php ( http://adodb.org/ , https://github.com/ADOdb/ADOdb/blob/master/session/crypt.inc.php)
 - Oracle : 비트연산용 PKG_UTILS( http://overoid.tistory.com/35 ) 참조
-- C# : 최종 버전은 HxCore.HxCrypt( https://github.com/userjhpark/HxCore/blob/master/HxCrypt.cs ) 참고
-
+- C#
 
 - 암호화 : HxCrypt.Encrypt(문자열, 키값) //호출 할 때마다 다른 값이 리턴됨
 - 복호화 : HxCrypt.Decrypt(암호 문자열, 키값)
